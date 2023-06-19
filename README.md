@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack Web Developer | Crafting Web Solutions,From Maharastra</h3>
  <img src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" alt="">
 
-- 🌱 I’m currently learning **ReactJS , Node JS , MongoDB At, </br> Masai School
+- 🌱 I’m currently learning **ReactJS , Node JS , MongoDB At, </br> &&nbsp; Masai School
 
 - 👯 I’m looking to collaborate on [PlantorderApp](https://github.com/saurabhWakde/-Plant_Order_Application)
 
