@@ -1,4 +1,4 @@
-    <img src="https://camo.githubusercontent.com/027c33113a4da2035cace44f52cdf8c800fb9d7527c9c276f75622894ab2254e/68747470733a2f2f7777772e656c6567616e747468656d65732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30372f70726f6772616d6d696e672d6c616e6775616765732d746f2d6c6561726e2d666f722d776f726470726573732d66656174757265642d696d6167652e706e67" alt=""></img>
+     <img src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Saurabh Wakde</h1>
 <h3 align="center">Full Stack Web Developer | Crafting Web Solutions,From Maharastra</h3>
  <img src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" alt="">
