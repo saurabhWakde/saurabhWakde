@@ -2,9 +2,6 @@
 <h3 align="center">Full Stack Web Developer | Crafting Web Solutions,From Maharastra</h3>
  <img src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhwakde&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhwakde" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhwakde" alt="saurabhwakde" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/saurabhWakde/saurabhWakde-github.io)
 
