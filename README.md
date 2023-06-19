@@ -1,7 +1,8 @@
     
     
-<h1 align="center">Hi 👋, I'm Saurabh Wakde</h1>
+
 <img src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" alt="">
+<h1 align="center">Hi 👋, I'm Saurabh Wakde</h1>
 <h3 align="center">Full Stack Web Developer | Crafting Web Solutions,From Maharastra</h3>
  <img src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" alt="">
 
