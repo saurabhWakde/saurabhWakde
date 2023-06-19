@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Wakde</h1>
 <h3 align="center">Full Stack Web Developer | Crafting Web Solutions,From Maharastra</h3>
-<img href="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg"/>
+ <img src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhwakde&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhwakde" /> </p>
 
