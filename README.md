@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on [PlantorderApp](https://github.com/saurabhWakde/-Plant_Order_Application)
 
-- 👨‍💻 All of my projects are available at [https://saurabh-wakde-portfolio.netlify.app/](https://saurabh-wakde-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://saurabhWakde.github.io)
 
-- 💬 Ask me about **React HTML CSS Java DSA JavScript**
+- 💬 Ask me about **React ,HTML ,CSS Java, DSA ,JavaScript**
 
-- 📫 How to reach me [https://saurabh-wakde-portfolio.netlify.app/]
+- 📫 How to reach me [https://saurabhWakde.github.io]
 
 - ⚡ Fun fact **Friendly and Funny**
 
