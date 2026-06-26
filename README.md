@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS , Node JS , MongoDB At, </br>   &nbsp;   &nbsp;   &nbsp;   Masai School.
 
-- 👯 I’m looking to collaborate on [PlantorderApp](https://github.com/saurabhWakde/-Plant_Order_Application)
+- 👯 I’m looking to collaborate on [PlantorderApp](https://plant-order-website.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://saurabhWakde.github.io)
 
